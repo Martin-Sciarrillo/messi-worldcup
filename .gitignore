@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.bak
+
+# Scrapling browser profile
+cf_profile/
+
+# Raw FBref scrape dumps — regenerables con `python fetch_fbref.py`.
+# No se redistribuyen (markup propietario de FBref).
+wc_*.html
+
+# Retratos de terceros (Wikipedia/Wikimedia) — regenerables con `python fetch_photos.py`.
+# Se documentan en REFERENCES.md en vez de redistribuir los JPG.
+photos/
+
+# Scratch
+_montage.png
+_montage.py

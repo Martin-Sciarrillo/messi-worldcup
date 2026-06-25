@@ -12,7 +12,7 @@ Klose) y ocupa **él solo** una región del plano que bauticé _**Tierra de Nadi
 volumen **y** mucha eficiencia, donde nadie más llega.
 
 <p align="center">
-  <img src="messi_profile_portraits.png" width="820" alt="El perfil sin igual de Messi — volumen x eficiencia"><br>
+  <img src="messi_profile_portraits.png" width="820" alt="Messi, fuera de la curva — volumen x eficiencia"><br>
   <em>🎬 Versión animada: <a href="messi_profile.mp4"><code>messi_profile.mp4</code></a> &nbsp;·&nbsp;
   🌐 Post en vivo: <a href="https://martin-sciarrillo.github.io/messi-worldcup/">martin-sciarrillo.github.io/messi-worldcup</a></em>
 </p>
@@ -111,7 +111,7 @@ Datos: **FBref / Sports Reference**. Fotos: **Wikipedia / Wikimedia Commons**.
 Código bajo licencia **MIT** (ver [`LICENSE`](LICENSE)). Atribución completa en
 [`REFERENCES.md`](REFERENCES.md).
 
-Hecho con curiosidad y mate por **[Martín Sciarrillo · aka.ms/Tincho](https://aka.ms/Tincho)**.
+Hecho con curiosidad y bastante café por **[Martín Sciarrillo · aka.ms/Tincho](https://aka.ms/Tincho)**.
 
 <sub>\* 1966–2026: el dataset cubre 1966–2022; las leyendas previas (1954/1958) y el
 Mundial 2026 en curso entran como datos manuales/parciales, debidamente marcados.</sub>

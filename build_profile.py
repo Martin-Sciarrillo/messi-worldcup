@@ -1,4 +1,4 @@
-"""El perfil sin igual de Messi en Mundiales (1966-2022) — versión animada con retratos.
+"""Messi, fuera de la curva — perfil mundialista (1966-2022), versión animada con retratos.
 Plano VOLUMEN (min de carrera) x EFICIENCIA (G+A/90), color = asistencias.
 Glow en Messi, bloom de fondo, grilla sutil, colorbar de creación.
 Cada jugador etiquetado aparece con su foto circular (Wikimedia) + banderita de país.
@@ -189,7 +189,7 @@ ax.set_xticks(np.arange(0, xmax, 500))
 ax.set_yticks(np.arange(0, ymax, 0.5))
 
 # Títulos
-fig.text(0.5, 0.955, "El perfil sin igual de Messi", color="white",
+fig.text(0.5, 0.955, "Messi, fuera de la curva", color="white",
          fontsize=21, fontweight="bold", ha="center")
 fig.text(0.5, 0.915, "Durabilidad × eficiencia · Mundiales 1966–2026* (+ leyendas: Kocsis, Fontaine, Pelé) · solo atacantes",
          color=CY, fontsize=11, ha="center")

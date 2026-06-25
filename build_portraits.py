@@ -182,7 +182,7 @@ ax.grid(True, which="major", color="#1c2433", lw=0.8, alpha=0.7, zorder=1)
 ax.set_xticks(np.arange(0, xmax, 500))
 ax.set_yticks(np.arange(0, ymax, 0.5))
 
-fig.text(0.5, 0.955, "El perfil sin igual de Messi", color="white",
+fig.text(0.5, 0.955, "Messi, fuera de la curva", color="white",
          fontsize=21, fontweight="bold", ha="center")
 fig.text(0.5, 0.915, "Durabilidad × eficiencia · Mundiales 1966–2026* (+ leyendas: Kocsis, Fontaine, Pelé) · solo atacantes",
          color=CY, fontsize=11, ha="center")

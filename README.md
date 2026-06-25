@@ -1,5 +1,7 @@
 # ⚽🔬 messi-worldcup
 
+**🌐 Leer en:** [English](README.en.md) · Español
+
 > Un experimento de _data viz_ futbolera. Tomé 60 años de Mundiales (1966–2026\*),
 > los puse en un plano de **volumen × eficiencia**, y busqué responder una sola
 > pregunta con datos en vez de gritos de cancha:
